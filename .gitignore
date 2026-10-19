@@ -1,0 +1,11 @@
+node_modules/
+vendor/
+*.log
+*.zip
+*.sql
+*.bak
+.env
+.DS_Store
+Thumbs.db
+
+*.map

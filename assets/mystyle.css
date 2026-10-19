@@ -1,0 +1,27 @@
+.formadmin-tablerdv{
+	width: 100%;
+}
+
+.formadmin-tablerdv td:first-child{
+	width: 25%;
+}
+
+.formadmin-tablerdv td label{
+text-align: left;
+font-weight: 500;
+}
+
+.formadmin-tablerdv td label span{
+	color: red;
+	margin: 2px;
+}
+
+.fieldsetadmin-rdv {
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin: 10px 0;
+}
+.fieldsetadmin-rdv legend{
+	font-weight: bolder;
+	font-size: 15px;
+}

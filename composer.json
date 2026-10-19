@@ -1,0 +1,13 @@
+{
+    "name": "lenovo/rdvpress",
+    "description": "plugin de prise de rendez-vous",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {
+        "sendgrid/sendgrid": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
